@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>42 on Youssouf Boudouia</title>
+    <link>https://Youssouf-Boudouia.github.io/42/</link>
+    <description>Recent content in 42 on Youssouf Boudouia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 15:03:20 +0200</lastBuildDate><atom:link href="https://Youssouf-Boudouia.github.io/42/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDF</title>
+      <link>https://Youssouf-Boudouia.github.io/42/fdf/</link>
+      <pubDate>Thu, 31 Aug 2023 14:39:52 +0200</pubDate>
+      
+      <guid>https://Youssouf-Boudouia.github.io/42/fdf/</guid>
+      <description>very cool stuff here</description>
+    </item>
+    
+    <item>
+      <title>Minishell</title>
+      <link>https://Youssouf-Boudouia.github.io/42/minishell/</link>
+      <pubDate>Thu, 31 Aug 2023 14:39:52 +0200</pubDate>
+      
+      <guid>https://Youssouf-Boudouia.github.io/42/minishell/</guid>
+      <description>hard stuff here</description>
+    </item>
+    
+  </channel>
+</rss>

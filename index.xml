@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Youssouf Boudouia</title>
+    <link>https://Youssouf-Boudouia.github.io/</link>
+    <description>Recent content on Youssouf Boudouia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 15:03:20 +0200</lastBuildDate><atom:link href="https://Youssouf-Boudouia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum</title>
+      <link>https://Youssouf-Boudouia.github.io/curriculum/</link>
+      <pubDate>Thu, 31 Aug 2023 17:55:59 +0200</pubDate>
+      
+      <guid>https://Youssouf-Boudouia.github.io/curriculum/</guid>
+      <description>I started to code in C at 12 years old, then after few experience in philosophy and world of work I decided to go to 42 School in Paris to value my knowledge.
+I enjoy and value the skill of :
+Understanding a problem Exploring the possible solution Reading the documentation / reasearch paper Designing the architecture. I also have strong communication skill with some leadership abilities with a goal of finding the most reasonable, relevant and manageable solution.</description>
+    </item>
+    
+    <item>
+      <title>FDF</title>
+      <link>https://Youssouf-Boudouia.github.io/42/fdf/</link>
+      <pubDate>Thu, 31 Aug 2023 14:39:52 +0200</pubDate>
+      
+      <guid>https://Youssouf-Boudouia.github.io/42/fdf/</guid>
+      <description>very cool stuff here</description>
+    </item>
+    
+    <item>
+      <title>Minishell</title>
+      <link>https://Youssouf-Boudouia.github.io/42/minishell/</link>
+      <pubDate>Thu, 31 Aug 2023 14:39:52 +0200</pubDate>
+      
+      <guid>https://Youssouf-Boudouia.github.io/42/minishell/</guid>
+      <description>hard stuff here</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://Youssouf-Boudouia.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 31 Aug 2023 14:39:52 +0200</pubDate>
+      
+      <guid>https://Youssouf-Boudouia.github.io/posts/my-first-post/</guid>
+      <description>This is my first post very cool stuff here</description>
+    </item>
+    
+  </channel>
+</rss>
