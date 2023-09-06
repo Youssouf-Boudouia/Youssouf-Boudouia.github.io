@@ -1,0 +1,42 @@
+knowledgeStack {
+	display: grid;
+	grid-template-rows: auto 1fr;
+}
+
+knowledgeStack:before {
+	content: attr(title);
+	margin-bottom: var(--content-gap);
+	display: flex;
+	align-items: center;
+	word-break: normal;
+}
+
+knowledgeStack > l {
+	content: attr(title);
+	margin-bottom: var(--content-gap);
+	display: flex;
+	align-items: center;
+	word-break: normal;
+}
+
+.curriculum_grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+
+.curriculum_grid > div {
+	display: grid;
+	grid-template-rows: 70px 1fr;
+	border-left-style: solid;
+	padding: 10px;
+}
+
+.curriculum_grid > div > p {
+	display: flex;
+	align-items: center;
+	word-break: normal;
+}
+
+.curriculum_grid > div > ul {
+	border-top-style: solid;
+}
